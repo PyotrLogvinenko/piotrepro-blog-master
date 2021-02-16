@@ -24,7 +24,7 @@ In your terminal, navigate to where you would like this blog to live, then run
 
 ```bash
 #clone the repo
-git clone git@github.com:kendallstrautman/brevifolia-next-tinacms.git
+git clone git@github.com:PyotrLogvinenko/piotrepro-blog-master.git
 
 #navigate to the directory
 cd brevifolia-next-tinacms
