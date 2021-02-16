@@ -27,7 +27,7 @@ In your terminal, navigate to where you would like this blog to live, then run
 git clone git@github.com:PyotrLogvinenko/piotrepro-blog-master.git
 
 #navigate to the directory
-cd brevifolia-next-tinacms
+cd piotrepro-blog-master
 
 #install dependencies & run dev server with yarn
 yarn install
