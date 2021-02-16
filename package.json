@@ -1,0 +1,58 @@
+{
+  "name": "foresry-starter-blog-next",
+  "private": true,
+  "description": "A simple starter to get up and developing quickly with TinaCMS & Next",
+  "license": "MIT",
+  "version": "0.1.0",
+  "author": "@kendallstraut",
+  "scripts": {
+    "dev-next": "next",
+    "dev": "node server.js",
+    "develop": "yarn dev",
+    "build": "next build",
+    "start-next": "next start",
+    "start": "cross-env NODE_ENV=production node server.js",
+    "export": "next export",
+    "deploy": "yarn build && yarn export"
+  },
+  "dependencies": {
+    "@tinacms/api-git": "^0.31.0-alpha.5",
+    "@tinacms/git-client": "^0.31.0-alpha.5",
+    "cors": "^2.8.5",
+    "disqus-react": "^1.0.11",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "final-form": "^4.19.1",
+    "glob": "^7.1.6",
+    "gray-matter": "^4.0.2",
+    "moment": "^2.24.0",
+    "next": "^9.4.0",
+    "next-tinacms-json": "^0.29.0",
+    "next-tinacms-markdown": "^0.29.0",
+    "prop-types": "^15.7.2",
+    "raw-loader": "^3.0.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-id-generator": "^3.0.1",
+    "react-markdown": "^4.1.0",
+    "react-tinacms-date": "^0.29.0",
+    "react-tinacms-editor": "^0.30.0",
+    "react-tinacms-inline": "^0.29.0",
+    "styled-components": "^4.4.1",
+    "tinacms": "^0.31.0-alpha.5",
+    "typescript": "^3.8.3",
+    "uuidv4": "^6.2.6",
+    "webpack": "^4.37.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "keywords": [
+    "next",
+    "tinacms"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kendallstrautman/brevifolia-next-tinacms"
+  }
+}
