@@ -1,8 +1,8 @@
 {
   "fileRelativePath": "data/config.json",
   "title": "@piotrepro блог",
-  "keywords": "blog, web development, programming, блог",
-  "description": "Starter blog using Tina CMS with Next.js.",
-  "repositoryUrl": "https://github.com/kendallstrautman/brevifolia-next-tinacms",
-  "og_image": "/static/usa-1.jpg"
+  "keywords": "технологии, веб разработка, жизнь, говно, моча",
+  "description": "Блог о том почему я раньше не начал вести блог.",
+  "repositoryUrl": "https://github.com/PyotrLogvinenko/piotrepro-blog-master",
+  "og_image": "/static/og-image.jpg"
 }
