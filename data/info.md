@@ -3,6 +3,7 @@ title: info page
 background_color: '#4A4A4A'
 description: Подписывайся и ставь лайки!
 keywords: 'информация, контакты'
+og_image: /static/photo_2021-01-31_11-22-59.jpg
 ---
 ## Хочешь связи со мной? подписывайся на соцсети или пиши на мыло:
 
